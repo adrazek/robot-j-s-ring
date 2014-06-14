@@ -1,0 +1,21 @@
+{
+  "name": "RobotJs",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "express": "~4.2.0",
+    "static-favicon": "~1.0.0",
+    "morgan": "~1.0.0",
+    "cookie-parser": "~1.0.1",
+    "body-parser": "~1.0.0",
+    "debug": "~0.7.4",
+    "jade": "~1.3.0",
+    "stylus": "0.42.3",
+    "socket.io": "~1.0.4",
+    "colors": "~0.6.2",
+    "Robot(J)s": "git://github.com/adrazek/robot-j-s.git"
+  }
+}
