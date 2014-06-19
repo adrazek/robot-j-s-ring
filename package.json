@@ -16,6 +16,8 @@
     "stylus": "0.42.3",
     "socket.io": "~1.0.4",
     "colors": "~0.6.2",
-    "Robot(J)s": "git://github.com/adrazek/robot-j-s.git"
+    "Robot(J)s": "0.0.1",
+    "moment": "~2.7.0",
+    "prompt": "~0.2.13"
   }
 }
